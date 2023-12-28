@@ -73,8 +73,8 @@ add:obs-studio-plugin-webkitgtk
 add:mediainfo-gui
 
 # GUI : Virtualisation
-add:VirtualBox
-add:virt-viewer
+# add:VirtualBox
+# add:virt-viewer
 
 # GUI : Graphisme
 add:gimp

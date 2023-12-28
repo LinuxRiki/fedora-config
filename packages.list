@@ -13,12 +13,12 @@ add:seahorse
 add:gnome-tweaks
 add:file-roller
 add:dconf-editor
-del:gnome-boxes
+# del:gnome-boxes
 del:abrt
 
 # CLI : Console
 add:screen
-add:vim-enhanced
+# add:vim-enhanced
 
 # CLI : Scripting
 add:ShellCheck
@@ -27,8 +27,6 @@ add:ShellCheck
 add:htop
 add:nmon
 add:glances
-del:neofetch
-del:screenfetch
 add:fastfetch
 add:inxi
 add:lm_sensors
@@ -70,7 +68,6 @@ add:soundconverter
 add:kdenlive
 add:audacity
 add:easytag
-del:peek
 add:obs-studio
 add:obs-studio-plugin-webkitgtk
 add:mediainfo-gui
@@ -85,18 +82,16 @@ add:flameshot
 
 # GUI : Reseau
 add:remmina
-del:anydesk
 
 # GUI : Internet
 del:epiphany
-add:evolution
 add:vivaldi-stable
 add:google-chrome-stable
-add:telegram-desktop
+# add:telegram-desktop
 add:discord
 
 # GUI : Utilitaires
-add:cool-retro-term
+# add:cool-retro-term
 add:guake
 
 # GUI : Sécurité

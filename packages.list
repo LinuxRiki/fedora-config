@@ -13,7 +13,7 @@ add:seahorse
 add:gnome-tweaks
 add:file-roller
 add:dconf-editor
-# del:gnome-boxes
+add:gnome-boxes
 del:abrt
 
 # CLI : Console
@@ -50,7 +50,7 @@ add:telnet
 add:borgbackup
 
 # CLI : Multimedia
-add:abcde
+del:abcde
 add:sox
 add:vorbisgain
 add:mediainfo
@@ -59,11 +59,11 @@ add:yt-dlp
 # CLI : Divers
 add:git
 add:pv
-add:android-tools
+#add:android-tools
 
 # GUI : Multimedia
 add:clementine
-add:smplayer
+#add:smplayer
 add:soundconverter
 add:kdenlive
 add:audacity
@@ -92,7 +92,7 @@ add:discord
 
 # GUI : Utilitaires
 # add:cool-retro-term
-add:guake
+# add:guake
 
 # GUI : Sécurité
 add:keepassxc
